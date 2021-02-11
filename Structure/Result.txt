@@ -1,0 +1,45 @@
+Student Name                   Scores                   Total    Avg      Grade 
+-------------------------------------------------------------------------------
+Jesus Villarroel    95    85    90    89    96    86    541      90.17        A
+John Doe            85    91    78    60    98    80    492      82.00        B
+Jane Doe            60    100   84    82    92    91    509      84.83        B
+Keanu Reeves        60    55    73    80    67    90    425      70.83        C
+Katherin Jones      68    56    89    87    54    74    428      71.33        C
+Brandon Lee         96    65    85    95    48    80    469      78.17        C
+Chuck Norris        100   100   100   100   100   100   600      100.00       A
+
+******************** Results using Bubble Sort Algorithm **********************
+
+Student Name                   Scores                   Total    Avg      Grade 
+-------------------------------------------------------------------------------
+Brandon Lee         96    65    85    95    48    80    469      78.17        C
+Chuck Norris        100   100   100   100   100   100   600      100.00       A
+Jane Doe            60    100   84    82    92    91    509      84.83        B
+Jesus Villarroel    95    85    90    89    96    86    541      90.17        A
+John Doe            85    91    78    60    98    80    492      82.00        B
+Katherin Jones      68    56    89    87    54    74    428      71.33        C
+Keanu Reeves        60    55    73    80    67    90    425      70.83        C
+
+******************** Results using Selection Sort Algorithm *******************
+
+Student Name                   Scores                   Total    Avg      Grade 
+-------------------------------------------------------------------------------
+Keanu Reeves        60    55    73    80    67    90    425      70.83        C
+Katherin Jones      68    56    89    87    54    74    428      71.33        C
+Brandon Lee         96    65    85    95    48    80    469      78.17        C
+John Doe            85    91    78    60    98    80    492      82.00        B
+Jane Doe            60    100   84    82    92    91    509      84.83        B
+Jesus Villarroel    95    85    90    89    96    86    541      90.17        A
+Chuck Norris        100   100   100   100   100   100   600      100.00       A
+
+******************** Results using Insertion Sort Algorithm *******************
+
+Student Name                   Scores                   Total    Avg      Grade 
+-------------------------------------------------------------------------------
+Jesus Villarroel    95    85    90    89    96    86    541      90.17        A
+Chuck Norris        100   100   100   100   100   100   600      100.00       A
+John Doe            85    91    78    60    98    80    492      82.00        B
+Jane Doe            60    100   84    82    92    91    509      84.83        B
+Keanu Reeves        60    55    73    80    67    90    425      70.83        C
+Katherin Jones      68    56    89    87    54    74    428      71.33        C
+Brandon Lee         96    65    85    95    48    80    469      78.17        C
